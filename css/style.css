@@ -756,7 +756,7 @@ body {
     margin-right: 0;
 }
 .slick-dots button {
-    margin: 5px 0;
+    margin: 15px 0;
     /*этот марджин для центрирования кнопок по одной линии*/
     font-size: 0px;
     width: 15px;
@@ -769,6 +769,7 @@ body {
     background: #ffffff;
     width: 30px;
     height: 30px;
+    margin: 0;
 }
 
 .whitelogos {
